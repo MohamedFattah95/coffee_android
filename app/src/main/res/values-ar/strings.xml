@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قهوة</string>
+    <string name="some_error">حدث خطأ ما</string>
+    <string name="next">متابعة</string>
+    <string name="total">الإجمالي</string>
+    <string name="sar">ريال</string>
+    <string name="tax">قيمة الضريبة</string>
+    <string name="final_total">المجموع النهائي</string>
+</resources>

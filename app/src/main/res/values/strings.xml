@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee</string>
+    <string name="some_error">Something went wrong</string>
+    <string name="next">Next</string>
+    <string name="total">Total</string>
+    <string name="sar">SAR</string>
+    <string name="tax">Tax</string>
+    <string name="final_total">Final total</string>
+
+</resources>
